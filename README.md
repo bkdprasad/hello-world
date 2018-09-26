@@ -1,2 +1,4 @@
 # hello-world
 just a quick sample repo
+
+# this is just to learn about the GIT hub repo; nothing more to it.
